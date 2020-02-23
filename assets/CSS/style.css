@@ -1,4 +1,27 @@
+
+
+/*----------------------warehouse section----------------------------------*/
+
 .warehouse{
-    height: 250px;
-    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    width: 50%;
+}
+.img-description{
+    text-align: center;
+    font-weight: 700;
+
+}
+/*----------------------header----------------------------------*/
+/*----------------------footer----------------------------------*/
+/*----------------------callout----------------------------------*/
+/*----------------------nav----------------------------------*/
+/*----------------------Value Statment----------------------------------*/
+.owner{
+    padding: 15px;
+   text-align: center;
+    
 }
