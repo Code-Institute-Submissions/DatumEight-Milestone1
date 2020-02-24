@@ -20,6 +20,7 @@
 footer{
     background-color: rgb(50, 50, 201);
     font-family: "Lato", sans-serif;
+    margin-top: 15px;
 }
 
 .big-icon{
@@ -42,6 +43,11 @@ footer{
 .div-center{
     display: inline-block;
     text-align: center;
+}
+.comment-form{
+    display: block;
+    text-align: center;
+    width: 33%;
 }
 /*----------------------callout----------------------------------*/
 .btn--one{
@@ -107,6 +113,13 @@ footer{
     font-family: "Lato", sans-serif;
     font-size: 24;
     font-weight: 500;
+}
+.value-state{
+    display: ;
+    text-align: center;
+}
+.value-map{
+    display: block;
 }
 /*---------------------------------map------------------------------------------*/
 .map{
