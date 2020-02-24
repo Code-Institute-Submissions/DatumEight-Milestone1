@@ -17,7 +17,32 @@
 }
 /*----------------------header----------------------------------*/
 /*----------------------footer----------------------------------*/
+footer{
+    background-color: rgb(50, 50, 201);
+    font-family: "Lato", sans-serif;
+}
 
+.big-icon{
+    font-size: 70px;
+   display: inline-block;
+    color: orange;
+    text-align: center;
+}
+.big-icon:hover{
+   
+    color: rgb(124, 81, 2);
+}
+.download-p{
+    text-align: center;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-size: 28px;    
+
+}
+.div-center{
+    display: inline-block;
+    text-align: center;
+}
 /*----------------------callout----------------------------------*/
 .btn--one{
    background-color: gold;
@@ -36,7 +61,8 @@
 .jumbotron{
     background-color: rgba(218, 195, 195, 0.719);
     margin-top: 120px;
-    
+    padding: 25px;
+    border-radius: 25px;
 }
 .jumbotron-text2{
     color: black;
@@ -59,6 +85,7 @@
 /*----------------------nav----------------------------------*/
 .nav-style{
     background-color: rgba(117, 124, 139, 0.897);
+    
 }
 /*----------------------Value Statment----------------------------------*/
 .owner{
@@ -96,3 +123,6 @@
     font-size: 22px;
 }
 /*---------------------------------body------------------------------------------*/
+body{
+    background-color: #c7c3c3;
+}
