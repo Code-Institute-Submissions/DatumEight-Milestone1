@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato|Lobster|Signika&display=swap');
 
 /*----------------------warehouse section----------------------------------*/
-
+/* maybe use the z index to acheive a floating diamond plate back ground with sections? */
 .warehouse{
     display: block;
     margin-left: auto;
