@@ -53,7 +53,8 @@ footer{
 }
 form{
     position: relative;
-    left: 33%;
+    left: auto;
+    right: auto;
 }
 /*----------------------callout----------------------------------*/
 .btn--one{
