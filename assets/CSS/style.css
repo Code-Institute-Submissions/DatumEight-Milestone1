@@ -48,6 +48,12 @@ footer{
     display: block;
     text-align: center;
     width: 33%;
+    right: 50%;
+    left: 50%;
+}
+form{
+    position: relative;
+    left: 33%;
 }
 /*----------------------callout----------------------------------*/
 .btn--one{
@@ -97,6 +103,8 @@ footer{
 .owner{
     padding: 15px;
    text-align: center;
+   display: inline-block;
+    right: -12%;
     
 }
 .owner-pic{
@@ -113,6 +121,8 @@ footer{
     font-family: "Lato", sans-serif;
     font-size: 24;
     font-weight: 500;
+    display: inline-block;
+    right: 15px;
 }
 .value-state{
     display: ;
