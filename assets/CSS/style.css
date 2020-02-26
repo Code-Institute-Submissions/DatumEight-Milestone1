@@ -69,6 +69,10 @@ form{
 .foot-block{
     
 }
+.social{
+    margin: 10px;
+    display: inline;
+}
 /*----------------------callout----------------------------------*/
 .btn--one{
    background-color: gold;
