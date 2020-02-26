@@ -27,7 +27,7 @@
 /*----------------------header----------------------------------*/
 /*----------------------footer----------------------------------*/
 footer{
-    background-color: rgb(50, 50, 201);
+    background-color: rgb(109, 161, 240);
     font-family: "Lato", sans-serif;
     margin-top: 15px;
     text-align: center;
@@ -65,6 +65,9 @@ form{
     left: auto;
     right: auto;
   
+}
+.foot-block{
+    
 }
 /*----------------------callout----------------------------------*/
 .btn--one{
