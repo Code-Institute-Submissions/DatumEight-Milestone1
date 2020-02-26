@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Lato|Lobster|Signika&display=swap');
 
+
+
+/*----------------------general use----------------------------------*/
+.text-right{
+    text-align: right;
+}
+.text-left{
+    text-align: left;
+}
 /*----------------------warehouse section----------------------------------*/
 /* maybe use the z index to acheive a floating diamond plate back ground with sections? */
 .warehouse{
@@ -21,6 +30,7 @@ footer{
     background-color: rgb(50, 50, 201);
     font-family: "Lato", sans-serif;
     margin-top: 15px;
+    text-align: center;
 }
 
 .big-icon{
@@ -28,6 +38,7 @@ footer{
    display: inline-block;
     color: orange;
     text-align: center;
+    margin-top: 15px;
 }
 .big-icon:hover{
    
@@ -47,14 +58,13 @@ footer{
 .comment-form{
     display: block;
     text-align: center;
-    width: 33%;
-    right: 50%;
-    left: 50%;
+ 
 }
 form{
-    position: relative;
+    display: block;
     left: auto;
     right: auto;
+  
 }
 /*----------------------callout----------------------------------*/
 .btn--one{
@@ -74,7 +84,7 @@ form{
 .jumbotron{
     background-color: rgba(218, 195, 195, 0.719);
     margin-top: 120px;
-    padding: 25px;
+    padding: 5px;
     border-radius: 25px;
 }
 .jumbotron-text2{
@@ -111,26 +121,29 @@ form{
 .owner-pic{
     height: 175px;
     width: 255px;
-    border-radius: 25px;
-}
+    border-radius: 25px;}
+  
 .signature{
     font-family: "Lobster", sans-serif;
     font-weight: 700;
 }
 .value{
-    margin-bottom: 25px;
+    margin: 20px;
     font-family: "Lato", sans-serif;
     font-size: 24;
-    font-weight: 500;
+    font-weight: 700;
     display: inline-block;
     right: 15px;
+    padding: 15px;
 }
-.value-state{
-    display: ;
-    text-align: center;
-}
+
 .value-map{
     display: block;
+}
+.value-style{
+      padding: 15px;
+    margin: 20px;
+
 }
 /*---------------------------------map------------------------------------------*/
 .map{
