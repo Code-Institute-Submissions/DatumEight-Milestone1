@@ -150,3 +150,6 @@ form{
 body{
     background-color: #c7c3c3;
 }
+html {
+    scroll-behavior: smooth;
+}
