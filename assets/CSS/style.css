@@ -69,8 +69,11 @@ footer{
 }
 form{
     display: block;
-    left: auto;
-    right: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    margin-top: 15px;
+    margin-bottom: 15px;
   
 }
 
@@ -137,19 +140,22 @@ form{
 }
 nav a {
      color: white;
-}
+     }
 /*----------------------Value Statment----------------------------------*/
 .owner{
     padding: 15px;
    text-align: center;
    display: inline-block;
-    right: -12%;
+    right: -10%;
     
 }
 .owner-pic{
-    height: 175px;
-    width: 255px;
-    border-radius: 25px;}
+    height: auto;
+    width: 300px;
+    border-radius: 10px;
+    border: 3px #fafafa solid;
+    max-width: 100%;
+}
   
 .signature{
     font-family: "Lobster", sans-serif;
@@ -171,6 +177,7 @@ nav a {
 .value-style{
       padding: 15px;
     margin: 20px;
+    text-align: center;
 
 }
 /*---------------------------------map------------------------------------------*/
@@ -197,4 +204,10 @@ body{
 html {
     scroll-behavior: smooth;
     
+}
+.section-floater{
+  width: 95%;
+  margin-left: auto;
+  margin-right:auto;
+  border-radius: 25px;
 }
