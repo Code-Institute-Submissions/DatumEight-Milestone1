@@ -94,7 +94,7 @@ form{
 
 
 .back-drop{
-    background-image: url("../images/machinery.jpg");
+    background-image: url("../Milestone1/assets/images/machinery.jpg");
     background-size: cover;
    
     height: 100vh;
@@ -207,7 +207,7 @@ nav a {
 }
 /*---------------------------------Meta styles------------------------------------------*/
 body{
-    background-image: url("/assets/images/diamond-plate.jpg");
+    background-image: url("../Milestone1/assets/images/diamond-plate.jpg");
     background-repeat: repeat-y repeat-x;
     background-size: auto;
 }
