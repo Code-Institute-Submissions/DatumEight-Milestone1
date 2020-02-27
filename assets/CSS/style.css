@@ -22,10 +22,12 @@
     margin-top: 25px;
     margin-bottom: 15px;
     width: 50%;
+     border-radius: 4px;
 }
 .img-description{
     text-align: center;
     font-weight: 700;
+   
 
 }
 /*----------------------header----------------------------------*/
@@ -71,9 +73,7 @@ form{
     right: auto;
   
 }
-.foot-block{
-     
-}
+
 .social {
 
   margin-top: 80px;
@@ -175,6 +175,7 @@ form{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 15px;
      
 }
 /*---------------------------------supported machinery------------------------------------------*/
@@ -184,7 +185,7 @@ form{
     font-weight: 400;
     font-size: 22px;
 }
-/*---------------------------------body------------------------------------------*/
+/*---------------------------------Meta styles------------------------------------------*/
 body{
     background-image: url("/assets/images/diamond-plate.jpg");
     background-repeat: repeat-y repeat-x;
@@ -192,4 +193,5 @@ body{
 }
 html {
     scroll-behavior: smooth;
+    
 }
