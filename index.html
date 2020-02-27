@@ -13,7 +13,7 @@
 
 <body>
 	<div id="top">
-		<nav>
+		<nav class="nav-style sticky-nav">
 			<!--Nav Start-->
 			<ul class="nav nav-pills nav-style">
 				<li class="nav-item">
@@ -29,13 +29,14 @@
 		</nav>
 		<!--Nav end-->
 	</div>
+    <section class="border-style">
 	<div class="callout-container back-drop">
 		<!--Callout inspired by WhiskeyDrop-->
 		<div class="opaque-overlay">&nbsp;</div>
 		<div class="row">
 			<div class="col-2"></div>
 			<div class="col-8">
-				<section class="callout jumbotron text-center">
+				<section class="callout jumbotron text-center border-style">
 					<!--Section Start-->
 					<h1 class="jumbotron-header">Southern Tool Supply</h1>
 					<hr class="block-divider">
@@ -53,26 +54,27 @@
 			<div class="col-2"></div>
 		</div>
 	</div>
+    </section>
 	<hr class="block-divider">
 	<div>
-		<section>
+		<section class="border-style">
 			<!--Section Start-->
 			<!--value statement-->
-			<div class="row media">
+			<div class="row media" >
 				<div class="col-md-4 owner d-none d-md-block">
 					<img src="../assets/images/man.jpeg" alt="warehouse" class=" mr-3 owner-pic">
 					<!--free use image from pixbay-->
 				</div>
 				<div class="col-md-8 d-none d-md-block value-style media-body">
-					
-						<p class="value">My father started this business in 1967 and it's been the pride of the family
-							since
-							and we adhere
-							ourselves to the same words we did back then.
-							‘Sell good merchandise at a reasonable profit, treat your customers like family, and they
-							will
-							always come back for more.'</p>
-					
+
+					<p class="value">My father started this business in 1967 and it's been the pride of the family
+						since
+						and we adhere
+						ourselves to the same words we did back then.
+						‘Sell good merchandise at a reasonable profit, treat your customers like family, and they
+						will
+						always come back for more.'</p>
+
 					<!--modified LL beans value statement-->
 
 					<h3 class="signature">Seymore Butts - Owner\Operator</h3>
@@ -82,7 +84,7 @@
 			<hr class="block-divider">
 		</section>
 		<!--section end-->
-		<section>
+		<section class="border-style">
 			<!--Section Start-->
 			<div class="row">
 				<div class="col-12">
@@ -96,23 +98,25 @@
 	</div>
 	<hr class="block-divider">
 	<div>
-		<section>
+		<section class="border-style">
 			<!--Section Start-->
-			<div class="row">
+			<div class="row border-style">
 				<div class="col-12">
 
 				</div>
 			</div>
 			<div id="About" class="row value-state">
 				<div class="col-4 d-none d-md-block">
-					
+
 				</div>
 				<div class="col-4 d-none d-sm-block">
-					<p class="supported">We have a fleet of trained technicians to support a variety of industrial manufacturing systems and our call center is open 24/7 year round to keep your production lines in the best operational condition.</p>
-                    <p class="supported"> Give us a call at <strong>1-888-567-8309</strong> </p>
+					<p class="supported">We have a fleet of trained technicians to support a variety of industrial
+						manufacturing systems and our call center is open 24/7 year round to keep your production lines
+						in the best operational condition.</p>
+					<p class="supported"> Give us a call at <strong>1-888-567-8309</strong> </p>
 				</div>
-                <div class="col-4 d-none d-md-block">
-					
+				<div class="col-4 d-none d-md-block">
+
 				</div>
 			</div>
 
@@ -128,6 +132,7 @@
 		<!--section end-->
 	</div>
 	<hr class="block-divider">
+    <section class="border-style">
 	<div class="container">
 		<div id="contact" class="row">
 			<div class="col-12 text-center">
@@ -156,6 +161,7 @@
 
 		</div>
 	</div>
+    </section>
 	<hr class="block-divider foot-block">
 
 	<footer>
@@ -169,24 +175,55 @@
 
 			</div>
 			<div class="col-md-4 div-center">
-				<i class="big-icon fas fa-download"></i>
+				<a href="order-form.pdf" target="_blank"><i class="big-icon fas fa-download"></i></a>
 
 				<p class="download-p">Need an order form?</p>
 
 			</div>
 			<div class="col-md-4 social">
-        
-			<a class="social" href="#" ><i class="fab fa-facebook-square"></i></a>
-            <a class="social" href="#" ><i class="fab fa-instagram"></i></a>
-            <a class="social" href="#" ><i class="fab fa-twitter-square"></i></a>
-            <a class="social" href="#" ><i class="fab fa-linkedin"></i></a>
+
+				<a class="social" href="#"><i class="fab fa-facebook-square"></i></a>
+				<a class="social" href="#"><i class="fab fa-instagram"></i></a>
+				<a class="social" href="#"><i class="fab fa-twitter-square"></i></a>
+				<a class="social" href="#"><i class="fab fa-linkedin"></i></a>
 
 			</div>
 		</div>
+		<!--Modal test from Whiskey Drop-->
+		<div class="modal" tabindex="-1" role="dialog" id="signUpModal">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title">Sign up for our mailing list!</h5>
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+					</div>
+					<div class="modal-body">
+						<form>
+							<div class="form-group">
+								<label for="exampleInputEmail1">Email address</label>
+								<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="modalemail">
+								<small id="modalemail" class="form-text text-muted">We'll never share your email with anyone else.</small>
+							</div>
 
+							<button type="submit" class="btn btn-success">Submit</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
 	</footer>
 	<!--Footer end-->
-
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+		integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+	</script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+		integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+	</script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+		integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+	</script>
 </body>
 
 </html>
