@@ -125,7 +125,7 @@ form{
 /*----------------------nav----------------------------------*/
 .nav-style{
     background-color: rgba(0, 0, 0, 0.897);
-    color: white;
+   
     
 }
 .sticky-nav {
@@ -134,6 +134,9 @@ form{
   width: 100%;
   z-index: 1;
   /*From W3schools sticky navbar example*/
+}
+nav a {
+     color: white;
 }
 /*----------------------Value Statment----------------------------------*/
 .owner{
