@@ -124,15 +124,25 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 a lot of time was spent between StackOverflow and w3schools for troubleshooting and they were essential to solving issues
 
+https://css-tricks.com/ - this is an AWESOME resource for obscure CSS questions and is more explanatory that StackOverflow
+
+
+
 
 
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The text for the value statement was copied from the L.L. Bean and modified some to fit the feel of the site.
 
 ### Media
-- The photos used in this site were obtained from ...
+owner pic, callout image, and diamond plate background are from a  free use image site called [PixBay](www.pixbay.com)
+
+warehouse image pulled from this article at  [Shopify](https://www.shopify.com/enterprise/international-warehouses-ecommerce-guide)
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+-Matt Rudge for the WhiskeyDrop website, without it this would have been much more difficult
+
+-the PeerCodeReview on slack provided me with a lot of examples of what the MS1 project should look like and helped me come up with my own ideas
+
+
