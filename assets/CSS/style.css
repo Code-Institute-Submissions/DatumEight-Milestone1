@@ -97,7 +97,7 @@ form{
 }
 
 .back-drop{
-    background-image: url("../Milestone1/assets/images/machinery.jpg");
+    background-image: url("../images/machinery.jpg");
     background-size: cover;
    
     height: 100vh;
@@ -177,7 +177,7 @@ nav a {
 .value{
     margin: 20px;
     font-family: "Lato", sans-serif;
-    font-size: 24;
+    font-size: 24px;
     font-weight: 700;
     display: inline-block;
     right: 15px;
@@ -210,8 +210,8 @@ nav a {
 }
 /*---------------------------------Meta styles------------------------------------------*/
 body{
-    background-image: url("../Milestone1/assets/images/diamond-plate.jpg");
-    background-repeat: repeat-y repeat-x;
+    background-image: url("../images/diamond-plate.jpg");
+    background-repeat: repeat;
     background-size: auto;
 }
 html {
