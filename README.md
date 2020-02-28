@@ -25,24 +25,37 @@ links/images from Balsamic go here.
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
-Mailing list: the mailing list is a simple but effective tool to keep users informed and increase site traction
 
-about section: provides a background of the company using 
 
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+Feature 1: Mailing list: the mailing list is a simple but effective tool to keep users informed and increase site traction
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Feature 2: about section: provides a background of the company using a headshot of the owner and a value statement to foster a sense of trust and familiarity with the user.
+
+Feature 3: Contact form: provides an easy way for the customer to get in touch for any issue or request for information that they have. 
+
+
 
 ### Features Left to Implement
-- Another feature idea
+- An online catalog to provide some of the less technical parts in an easy to read format
+
+- an employee directory to provide specific contact info the customer is trying to find
+
+-a login page that saves the user's info and streamlines the buying process
 
 ## Technologies Used
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+
+[HTML](https://html.com)
+    - the project uses **HTML** to layout information in a meaningful way that can be read by a browser
+
+[CSS] (https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+    - the project uses **CSS** to add color and effect to HTML
+
+[BootStrap](https://getbootstrap.com/)
+    - The project uses **BootStrap** to simplify mobile responsiveness
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
@@ -81,6 +94,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## Credits
+
+a lot of time was spent between StackOverflow and w3schools for troubleshooting and they were essential to solving issues
+
+
+
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
