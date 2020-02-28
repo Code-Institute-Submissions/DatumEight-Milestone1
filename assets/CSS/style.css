@@ -91,7 +91,10 @@ form{
    background-color: gold;
    color: black;
 }
-
+.btn--one:hover{
+   background-color: #887304;
+   color: black;
+}
 
 .back-drop{
     background-image: url("../Milestone1/assets/images/machinery.jpg");
@@ -102,7 +105,7 @@ form{
 
 }
 .jumbotron{
-    background-color: rgba(218, 195, 195, 0.719);
+    background-color: rgba(218, 195, 195, 0.85);
     margin-top: 120px;
     padding: 5px;
     border-radius: 25px;
@@ -137,7 +140,7 @@ form{
 
 /*----------------------nav----------------------------------*/
 .nav-style{
-    background-color: rgba(0, 0, 0, 0.897);
+    background-color: rgba(0, 0, 0, 0.65);
    
     
 }
