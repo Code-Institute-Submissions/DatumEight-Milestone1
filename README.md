@@ -57,7 +57,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 [BootStrap](https://getbootstrap.com/)
     - The project uses **BootStrap** to simplify mobile responsiveness
 
-- [JQuery](https://jquery.com)
+[JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
 
@@ -70,16 +70,43 @@ Whenever it is feasible, prefer to automate your tests, and if you've done so, p
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
 1. Contact form:
-    1. Go to the "Contact Us" page
+    1. go to contact form postion of page 
+
     2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+2. Navbar:
+    1. check that each location on the navbar functions as expected
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+    2. ensure that the nav postions are far enough apart to merit their own tag
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+3. Value statement:
+    1. on resize value section text overlaps on to owner picture
+
+    2. eliminated section on displays smaller than medium to save on small screen realestate
+
+4. Jumbotron:
+
+    1. text overflow on displays smaller than 400px
+
+    2. @media query to change font size to allow for smaller displays
+
+##automated testing##
+
+www.w3.org was used to verify the integrity of both HTML and CSS 
+
+##Screen responsiveness##
+
+on displays smaller than 400px the jumbotron heading changes font sizes to prevent text overflow
+
+on displays smaller than medium to owner picture and value statement disappear to save on screen realestate and simplify the site
+
+
+##notes of interest##
+
+figuring out the jumbotron issue was challenging due to finding the right method of resising the header to keep the text from spilling out, i noticed in the chrome dev tools that the
+natural font size for the h1 header is 2.5rem and ended going with that. 
+
+the owner pic and value statment kept running over eachother due to not having an image fluid attribute to the owner pic, CSS-tricks led me to the solution
 
 ## Deployment
 
