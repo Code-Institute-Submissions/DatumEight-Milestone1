@@ -16,7 +16,7 @@ as a mangager, i would like to see my supply network, so that i can get a clear 
 
 as a small business owner, needing to look hard for supplies takes away time from other tasks, id like that to be streamlined to make my job easier.
 
-##wireframe##
+## Wireframe
 
 links/images from Balsamic go here.
 
@@ -110,14 +110,15 @@ the owner pic and value statment kept running over eachother due to not having a
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+starting with previews and testing from GitPod ports and moving to GitHub pages,
+filenames had to be changed
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+the code remains on the masterbranch
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+to display the site locally, download the project from the host on github and laundch index.html with your preferred
+internet browser. While ensuring to maintain the original file structure to keep the links functional.
+
+
 
 
 ## Credits
