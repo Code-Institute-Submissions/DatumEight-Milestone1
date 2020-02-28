@@ -23,8 +23,6 @@ links/images from Balsamic go here.
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
 
 
 ### Existing Features
@@ -51,7 +49,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 [HTML](https://html.com)
     - the project uses **HTML** to layout information in a meaningful way that can be read by a browser
 
-[CSS] (https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+[CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
     - the project uses **CSS** to add color and effect to HTML
 
 [BootStrap](https://getbootstrap.com/)
@@ -139,6 +137,8 @@ https://css-tricks.com/ - this is an AWESOME resource for obscure CSS questions 
 owner pic, callout image, and diamond plate background are from a  free use image site called [PixBay](www.pixbay.com)
 
 warehouse image pulled from this article at  [Shopify](https://www.shopify.com/enterprise/international-warehouses-ecommerce-guide)
+
+order template came from [SmartSheets](www.smartsheets.com) 
 
 ### Acknowledgements
 
