@@ -21,7 +21,7 @@ as a small business owner, needing to look hard for supplies takes away time fro
 
 ## Wireframe
 
-links/images from Balsamic go here.
+![Balsalmic Mockup](https://octodex.github.com/mockup/mockup.png)
 
 
 ## Features
@@ -64,11 +64,6 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
 1. Contact form:
     1. go to contact form postion of page 
@@ -94,6 +89,8 @@ For any scenarios that have not been automated, test the user stories manually a
 ##automated testing##
 
 www.w3.org was used to verify the integrity of both HTML and CSS 
+
+
 
 ##Screen responsiveness##
 
@@ -133,6 +130,7 @@ https://css-tricks.com/ - this is an AWESOME resource for obscure CSS questions 
 
 
 
+
 ### Content
 - The text for the value statement was copied from the L.L. Bean and modified some to fit the feel of the site.
 
@@ -148,5 +146,7 @@ order template came from [SmartSheets](www.smartsheets.com)
 -Matt Rudge for the WhiskeyDrop website, without it this would have been much more difficult
 
 -the PeerCodeReview on slack provided me with a lot of examples of what the MS1 project should look like and helped me come up with my own ideas
+
+-Bennettpe_alumni for helping me improve the README. 
 
 
