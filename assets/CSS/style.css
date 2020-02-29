@@ -178,7 +178,7 @@ nav a {
     font-weight: 700;
 }
 .value{
-    margin: 20px;
+    margin: 50px;
     font-family: "Lato", sans-serif;
     font-size: 24px;
     font-weight: 700;
@@ -195,6 +195,11 @@ nav a {
     margin: 20px;
     text-align: center;
 
+}
+.value-space{
+    margin-bottom: 50px;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
 }
 /*---------------------------------map------------------------------------------*/
 .map{
