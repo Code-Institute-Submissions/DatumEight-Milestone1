@@ -21,7 +21,7 @@ as a small business owner, needing to look hard for supplies takes away time fro
 
 ## Wireframe
 
-![Balsalmic Mockup](https://datumeight.github.com/Milestone1/mockup/mockup.png)
+![Balsalmic Mockup](https://raw.githubusercontent.com/DatumEight/Milestone1/master/mockup/mockup.PNG)
 
 
 ## Features
