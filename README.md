@@ -3,6 +3,9 @@
 STS is intended for the B2B commercial buyer market in the manufacturing sector. A large portion of the role requires the intended user to
  juggle multiple sources that generally do not have an online presence to obtain all the parts
 and supplies needed to keep their produciton lines running. STS attempts to fill this void by providing the user the ability to research, connect, and appraise STS online.
+
+
+Live link - https://datumeight.github.io/Milestone1/
  
 ## UX
 
