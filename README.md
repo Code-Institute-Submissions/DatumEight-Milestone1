@@ -43,7 +43,7 @@ Feature 3: Contact form: provides an easy way for the customer to get in touch f
 
 - an employee directory to provide specific contact info the customer is trying to find
 
--a login page that saves the user's info and streamlines the buying process
+- a login page that saves the user's info and streamlines the buying process
 
 ## Technologies Used
 
@@ -136,7 +136,7 @@ internet browser. While ensuring to maintain the original file structure to keep
 
 a lot of time was spent between StackOverflow and w3schools for troubleshooting and they were essential to solving issues
 
-https://css-tricks.com/ - this is an AWESOME resource for obscure CSS questions and is more explanatory that StackOverflow
+https://css-tricks.com/ - this is an AWESOME resource for obscure CSS questions and is more explanatory than StackOverflow
 
 
 
@@ -156,12 +156,12 @@ order template came from [SmartSheets](https://www.smartsheets.com)
 
 ### Acknowledgements
 
--Matt Rudge for the WhiskeyDrop website, without it this would have been much more difficult
+- Matt Rudge for the WhiskeyDrop website, without it this would have been much more difficult
 
--the PeerCodeReview on slack provided me with a lot of examples of what the MS1 project should look like and helped me come up with my own ideas
+- the PeerCodeReview on slack provided me with a lot of examples of what the MS1 project should look like and helped me come up with my own ideas
 
--Bennettpe_alumni for helping me improve the README. 
+- Bennettpe_alumni for helping me improve the README. 
 
--@Fabi's milestone one project in peer code review was where i found background attachment in CSS
+- @Fabi's(slack username) milestone one project in peer code review was where i found background attachment in CSS
 
 
