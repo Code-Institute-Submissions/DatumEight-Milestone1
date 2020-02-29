@@ -61,6 +61,14 @@ In this section, you should mention all of the languages, frameworks, libraries,
 [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
+[Balsalmic]
+    - used to create the wireframe
+
+[Git]()
+    - used for version control by keeping track of changes to the code throughout the development process
+
+
+
 
 ## Testing
 
@@ -86,20 +94,25 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
     2. @media query to change font size to allow for smaller displays
 
-##automated testing##
+
+
+I did a lot of testing across the chrome dev tools through their built in mobile view and had the site opened and browsed via a test audience of my coworkers on multiple PC's with
+Chrome and Internet Explorer as well as Safari on mobile. 
+
+## automated testing
 
 www.w3.org was used to verify the integrity of both HTML and CSS 
 
 
 
-##Screen responsiveness##
+## Screen responsiveness
 
 on displays smaller than 400px the jumbotron heading changes font sizes to prevent text overflow
 
 on displays smaller than medium to owner picture and value statement disappear to save on screen realestate and simplify the site
 
 
-##notes of interest##
+### notes of interest
 
 figuring out the jumbotron issue was challenging due to finding the right method of resising the header to keep the text from spilling out, i noticed in the chrome dev tools that the
 natural font size for the h1 header is 2.5rem and ended going with that. 
