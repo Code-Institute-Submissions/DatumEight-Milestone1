@@ -21,7 +21,7 @@ as a small business owner, needing to look hard for supplies takes away time fro
 
 ## Wireframe
 
-![Balsalmic Mockup](https://octodex.github.com/mockup/mockup.png)
+![Balsalmic Mockup](https://octodex.github.com/Milestone1/mockup/mockup.png)
 
 
 ## Features
