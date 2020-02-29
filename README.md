@@ -148,11 +148,11 @@ https://css-tricks.com/ - this is an AWESOME resource for obscure CSS questions 
 - The text for the value statement was copied from the L.L. Bean and modified some to fit the feel of the site.
 
 ### Media
-owner pic, callout image, and diamond plate background are from a  free use image site called [PixBay](www.pixbay.com)
+owner pic, callout image, and diamond plate background are from a  free use image site called [PixBay](https://www.pixbay.com)
 
 warehouse image pulled from this article at  [Shopify](https://www.shopify.com/enterprise/international-warehouses-ecommerce-guide)
 
-order template came from [SmartSheets](www.smartsheets.com) 
+order template came from [SmartSheets](https://www.smartsheets.com) 
 
 ### Acknowledgements
 
